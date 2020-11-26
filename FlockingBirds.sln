@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlockingBirds", "FlockingBirds\FlockingBirds.csproj", "{B69CAD29-45CA-4826-86EC-D872C2A98F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsRenderer", "WinFormsRenderer\WinFormsRenderer.csproj", "{8A67852B-CB60-413D-AEC8-3FBF9022B954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69CAD29-45CA-4826-86EC-D872C2A98F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69CAD29-45CA-4826-86EC-D872C2A98F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69CAD29-45CA-4826-86EC-D872C2A98F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69CAD29-45CA-4826-86EC-D872C2A98F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A67852B-CB60-413D-AEC8-3FBF9022B954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A67852B-CB60-413D-AEC8-3FBF9022B954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A67852B-CB60-413D-AEC8-3FBF9022B954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A67852B-CB60-413D-AEC8-3FBF9022B954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F14A14-BB39-447E-965B-321A3E96AB7D}
+	EndGlobalSection
+EndGlobal

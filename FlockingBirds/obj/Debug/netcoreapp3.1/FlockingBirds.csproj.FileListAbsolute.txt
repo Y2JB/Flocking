@@ -1,0 +1,9 @@
+D:\dev\FlockingBirds\FlockingBirds\bin\Debug\netcoreapp3.1\FlockingBirds.deps.json
+D:\dev\FlockingBirds\FlockingBirds\bin\Debug\netcoreapp3.1\FlockingBirds.dll
+D:\dev\FlockingBirds\FlockingBirds\bin\Debug\netcoreapp3.1\FlockingBirds.pdb
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.AssemblyInfoInputs.cache
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.AssemblyInfo.cs
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.csproj.CoreCompileInputs.cache
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.dll
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.pdb
+D:\dev\FlockingBirds\FlockingBirds\obj\Debug\netcoreapp3.1\FlockingBirds.csprojAssemblyReference.cache
